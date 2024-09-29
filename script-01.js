@@ -14,5 +14,4 @@ function Grades(){
         console.log ("wrong input");
     }
     }
-    // display the result 
     output.textContent = `The grades for ${marks} is ${grades}.`;
